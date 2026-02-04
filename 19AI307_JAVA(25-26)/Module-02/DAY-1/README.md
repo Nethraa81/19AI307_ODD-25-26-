@@ -1,5 +1,5 @@
 # Ex.No:2(A) CLASS AND OBJECT
-
+# Date : 02.02.2026
 ## QUESTION:
 
 Define a class Teacher with attributes: name (String), subject (String), and experience (int, years). 
@@ -57,4 +57,5 @@ public class Main
 ## RESULT:
 
 The program successfully defines a Teacher class with attributes for name, subject, and experience, creates an object with the given values, and displays the teacher’s details correctly.
+
 
