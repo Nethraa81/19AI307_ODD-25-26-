@@ -1,5 +1,5 @@
 # Ex.No:3(E) INNER CLASS
-
+## Date:16.02.2026
 ## QUESTION:
 Write a Java program to create an inner class and access it from the outer class.
 
@@ -63,5 +63,6 @@ public class Main {
 
 ## RESULT:
 The program successfully accesses and prints data from the inner class using the outer class.
+
 
 
