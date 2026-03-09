@@ -1,5 +1,5 @@
 # Ex.No:1(D) ARRAYS
-
+# Date : 27.01.26
 ## QUESTION:
 
 Write a Java program to count the number of positive, negative, and zero elements in an array.
@@ -75,4 +75,5 @@ public class Main
 ## RESULT:
 
 The program successfully counts the number of positive, negative, and zero elements in the given array and displays the result.
+
 
