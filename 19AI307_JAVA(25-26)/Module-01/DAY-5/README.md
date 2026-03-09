@@ -1,5 +1,5 @@
 # Ex.No:1(E) STRINGS AND MATH FUNCTION
-
+# Date: 29.01.2026
 ## QUESTION:
 
 Write a Java program to calculate the power of a given number.
@@ -47,4 +47,5 @@ public class Main
 ## RESULT:
 
 The program successfully computes the power of a given number by repeatedly multiplying the base according to the exponent and displays the final result.
+
 
