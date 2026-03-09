@@ -1,5 +1,5 @@
 # Ex.No:2(B) METHODS
-
+## Date: 03.02.2026
 ## QUESTION:
 
 Write a method int cube(int x) that calls a method int square(int x) internally to calculate the cube as x * square(x).
@@ -55,4 +55,5 @@ public class Main
 ## RESULT:
 
 The program successfully calculates the cube of a given number by calling the square() method from within the cube() method, demonstrating method calling and reuse in Java.
+
 
