@@ -1,5 +1,5 @@
 # Ex.No:3(D)    INTERFACE 
-
+## Date: 14.02.2026
 ## QUESTION:
 You are programming bots that analyze weather data. Each bot must implement a common interface and give a prediction.
 
@@ -88,5 +88,6 @@ public class Main {
 
 ## RESULT:
 The program predicts weather conditions using interface implementation and method overriding.
+
 
 
