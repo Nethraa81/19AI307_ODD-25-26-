@@ -1,5 +1,5 @@
 # Ex.No:3(C) ABSTRACTION
-
+## Date: 13.02.2026
 ## QUESTION:
 Description:
 Create abstract class GameScore with method finalScore().
@@ -98,5 +98,6 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrates abstraction and inheritance by computing the final score for different game types using subclass-specific logic.
+
 
 
