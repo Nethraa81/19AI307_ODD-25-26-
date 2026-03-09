@@ -1,5 +1,5 @@
 # Ex.No:2(C) ACCESS SPECIFIERS
-
+## Date: 05.02.2026
 ## QUESTION:
 
 Write a Java program to create a class called Person with private instance variables name, age. and country. Provide public getter and setter methods to access and modify these variables.
@@ -85,4 +85,5 @@ public class prog
 ## RESULT:
 
 The program successfully creates a Person class with private variables and accesses them using getter and setter methods, demonstrating encapsulation in Java.
+
 
