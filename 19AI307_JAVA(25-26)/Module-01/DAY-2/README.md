@@ -1,5 +1,5 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
-
+# Date : 25.01.2026
 ## QUESTION:
 You're entering a magical maze with a 3-digit access code. Based on its digits, the maze behaves differently:</br>
    -> If the middle digit is 0 → Maze freezes.</br>
@@ -70,4 +70,5 @@ public class Main
 ## RESULT:
 
 Thus, the program was successfully written and executed. The behavior of the magical maze was correctly determined based on the digits of the 3-digit access code according to the given conditions.
+
 
