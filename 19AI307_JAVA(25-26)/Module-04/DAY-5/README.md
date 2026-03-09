@@ -1,5 +1,5 @@
 # Ex.No:4(E) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
-
+## Date: 26.02.2026
 ## QUESTION:
 Create a program that sends different types of notifications: "email", "sms", and "push". Use the Factory Pattern to generate the appropriate notification sender and call its notifyUser() method.
 
@@ -110,6 +110,7 @@ public class Main {
 
 ## RESULT:
 Thus, the program demonstrating the Behavioral Pattern using Factory Method to generate different notification types was successfully implemented and executed.
+
 
 
 
