@@ -1,5 +1,5 @@
 # Ex.No:1(C) LOOPING STATEMENT
-
+# Date : 26.01.2026
 ## QUESTION:
 
 Write a Java program to reverse a number using a while loop. For example, if the input is 1234, the output should be 4321
@@ -54,4 +54,5 @@ public class Main
 ## RESULT:
 
 Thus, the Java program to reverse a number using a while loop was successfully implemented and executed.
+
 
