@@ -1,5 +1,5 @@
 # Ex.No:4(D) DESIGN PATTERN -- ABSTRACT FACTORY
-
+## Date: 24.02.2026
 ## QUESTION:
 You are asked to simulate a simple Shape Drawing Tool using the Factory Design Pattern in Java.
 
@@ -109,6 +109,7 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to simulate Shape Drawing using the Factory Design Pattern was successfully implemented and executed.
+
 
 
 
