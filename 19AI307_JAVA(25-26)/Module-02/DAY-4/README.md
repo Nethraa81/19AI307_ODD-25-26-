@@ -1,5 +1,5 @@
 # Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
-
+## Date: 07.02.2026
 ## QUESTION:
 
 Write a java code to implement a parameterised constructor that will initialize the id,name,age,gender,doj,dob of the student and print the details using user defined function.
@@ -84,4 +84,5 @@ public class Main
 ## RESULT:
 
 The program successfully initializes student details using a parameterized constructor and prints them using a user-defined function.
+
 
